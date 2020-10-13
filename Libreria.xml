@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<XMI xmi.version="1.1" xmlns:UML="omg.org/UML1.3" timestamp="2020-10-13 15:54:36">
+<XMI xmi.version="1.1" xmlns:UML="omg.org/UML1.3" timestamp="2020-10-13 18:09:28">
 	<XMI.header>
 		<XMI.documentation>
 			<XMI.exporter>Enterprise Architect</XMI.exporter>
@@ -16,8 +16,9 @@
 						<UML:TaggedValue tag="created" value="2014-05-07 00:00:00"/>
 						<UML:TaggedValue tag="modified" value="2020-10-09 22:17:50"/>
 						<UML:TaggedValue tag="iscontrolled" value="TRUE"/>
-						<UML:TaggedValue tag="xmlpath" value="C:\Users\kruger\Documents\testgit\repoea\Libreria.xml"/>
-						<UML:TaggedValue tag="lastsavedate" value="2020-10-13 15:54:36"/>
+						<UML:TaggedValue tag="xmlpath" value="C:\Users\kruger\Documents\GitHub\repoea\Libreria.xml"/>
+						<UML:TaggedValue tag="lastloaddate" value="2020-10-13 18:01:30"/>
+						<UML:TaggedValue tag="lastsavedate" value="2020-10-13 18:09:28"/>
 						<UML:TaggedValue tag="version" value="1.0"/>
 						<UML:TaggedValue tag="isprotected" value="FALSE"/>
 						<UML:TaggedValue tag="usedtd" value="FALSE"/>
@@ -59,7 +60,7 @@
 										<UML:TaggedValue tag="complexity" value="1"/>
 										<UML:TaggedValue tag="status" value="Proposed"/>
 										<UML:TaggedValue tag="tpos" value="0"/>
-										<UML:TaggedValue tag="ea_localid" value="276"/>
+										<UML:TaggedValue tag="ea_localid" value="62"/>
 										<UML:TaggedValue tag="ea_eleType" value="package"/>
 										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 									</UML:ModelElement.taggedValue>
@@ -84,7 +85,7 @@
 										<UML:TaggedValue tag="complexity" value="1"/>
 										<UML:TaggedValue tag="status" value="Proposed"/>
 										<UML:TaggedValue tag="tpos" value="0"/>
-										<UML:TaggedValue tag="ea_localid" value="275"/>
+										<UML:TaggedValue tag="ea_localid" value="54"/>
 										<UML:TaggedValue tag="ea_eleType" value="package"/>
 										<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 									</UML:ModelElement.taggedValue>
@@ -98,8 +99,9 @@
 								<UML:TaggedValue tag="created" value="2020-10-08 16:35:47"/>
 								<UML:TaggedValue tag="modified" value="2020-10-08 16:35:47"/>
 								<UML:TaggedValue tag="iscontrolled" value="TRUE"/>
-								<UML:TaggedValue tag="xmlpath" value="C:\Users\kruger\Documents\testgit\enterprisearchitect\As-Is.xml"/>
-								<UML:TaggedValue tag="lastsavedate" value="2020-10-13 15:54:35"/>
+								<UML:TaggedValue tag="xmlpath" value="C:\Users\kruger\Documents\GitHub\repoea\As-Is.xml"/>
+								<UML:TaggedValue tag="lastloaddate" value="2020-10-13 18:01:30"/>
+								<UML:TaggedValue tag="lastsavedate" value="2020-10-13 18:09:21"/>
 								<UML:TaggedValue tag="version" value="1.0"/>
 								<UML:TaggedValue tag="isprotected" value="FALSE"/>
 								<UML:TaggedValue tag="usedtd" value="FALSE"/>
@@ -138,7 +140,7 @@
 												<UML:TaggedValue tag="complexity" value="1"/>
 												<UML:TaggedValue tag="status" value="Proposed"/>
 												<UML:TaggedValue tag="tpos" value="3"/>
-												<UML:TaggedValue tag="ea_localid" value="219"/>
+												<UML:TaggedValue tag="ea_localid" value="57"/>
 												<UML:TaggedValue tag="ea_eleType" value="package"/>
 												<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 											</UML:ModelElement.taggedValue>
@@ -163,7 +165,7 @@
 												<UML:TaggedValue tag="complexity" value="1"/>
 												<UML:TaggedValue tag="status" value="Proposed"/>
 												<UML:TaggedValue tag="tpos" value="0"/>
-												<UML:TaggedValue tag="ea_localid" value="287"/>
+												<UML:TaggedValue tag="ea_localid" value="55"/>
 												<UML:TaggedValue tag="ea_eleType" value="package"/>
 												<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 											</UML:ModelElement.taggedValue>
@@ -178,7 +180,8 @@
 										<UML:TaggedValue tag="modified" value="2020-10-09 22:13:30"/>
 										<UML:TaggedValue tag="iscontrolled" value="TRUE"/>
 										<UML:TaggedValue tag="xmlpath" value="C:\Users\kruger\Documents\testgit\enterprisearchitect\Dominio Aplicaciones.xml"/>
-										<UML:TaggedValue tag="lastsavedate" value="2020-10-13 15:54:35"/>
+										<UML:TaggedValue tag="lastloaddate" value="2020-10-13 18:01:30"/>
+										<UML:TaggedValue tag="lastsavedate" value="2020-10-13 18:09:21"/>
 										<UML:TaggedValue tag="version" value="1.0"/>
 										<UML:TaggedValue tag="isprotected" value="FALSE"/>
 										<UML:TaggedValue tag="usedtd" value="FALSE"/>
@@ -217,7 +220,7 @@
 														<UML:TaggedValue tag="complexity" value="1"/>
 														<UML:TaggedValue tag="status" value="Proposed"/>
 														<UML:TaggedValue tag="tpos" value="0"/>
-														<UML:TaggedValue tag="ea_localid" value="291"/>
+														<UML:TaggedValue tag="ea_localid" value="56"/>
 														<UML:TaggedValue tag="ea_eleType" value="package"/>
 														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 													</UML:ModelElement.taggedValue>
@@ -231,10 +234,14 @@
 												<UML:TaggedValue tag="created" value="2020-10-09 22:14:04"/>
 												<UML:TaggedValue tag="modified" value="2020-10-09 22:14:04"/>
 												<UML:TaggedValue tag="iscontrolled" value="FALSE"/>
+												<UML:TaggedValue tag="lastloaddate" value="2020-10-13 18:01:30"/>
+												<UML:TaggedValue tag="lastsavedate" value="2020-10-13 18:01:30"/>
 												<UML:TaggedValue tag="version" value="1.0"/>
 												<UML:TaggedValue tag="isprotected" value="FALSE"/>
 												<UML:TaggedValue tag="usedtd" value="FALSE"/>
 												<UML:TaggedValue tag="logxml" value="FALSE"/>
+												<UML:TaggedValue tag="batchsave" value="0"/>
+												<UML:TaggedValue tag="batchload" value="0"/>
 												<UML:TaggedValue tag="phase" value="1.0"/>
 												<UML:TaggedValue tag="status" value="Proposed"/>
 												<UML:TaggedValue tag="author" value="kruger"/>
@@ -264,7 +271,7 @@
 														<UML:TaggedValue tag="status" value="Proposed"/>
 														<UML:TaggedValue tag="stereotype" value="ArchiMate_ApplicationComponent"/>
 														<UML:TaggedValue tag="tpos" value="0"/>
-														<UML:TaggedValue tag="ea_localid" value="1599"/>
+														<UML:TaggedValue tag="ea_localid" value="287"/>
 														<UML:TaggedValue tag="ea_eleType" value="element"/>
 														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={DDB16789-A4E6-4c6e-89E6-EE77FF9779D6}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_ApplicationComponent;FQName=ArchiMate3::ArchiMate_ApplicationComponent;@ENDSTEREO;$DES;$CLT={96999C02-8E8C-4d70-8163-E901A9A2815A}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={2BB2D9B8-9A35-421a-B909-D22013A249B7}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=_HideUmlLinks@ENDNAME;@TYPE=string@ENDTYPE;@VALU=True@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=ArchiMate3::Application@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={96999C02-8E8C-4d70-8163-E901A9A2815A}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -281,7 +288,8 @@
 										<UML:TaggedValue tag="modified" value="2020-10-09 22:18:04"/>
 										<UML:TaggedValue tag="iscontrolled" value="TRUE"/>
 										<UML:TaggedValue tag="xmlpath" value="C:\Users\kruger\Documents\testgit\enterprisearchitect\Dominio Tecnologia.xml"/>
-										<UML:TaggedValue tag="lastsavedate" value="2020-10-13 15:54:36"/>
+										<UML:TaggedValue tag="lastloaddate" value="2020-10-13 18:01:30"/>
+										<UML:TaggedValue tag="lastsavedate" value="2020-10-13 18:09:27"/>
 										<UML:TaggedValue tag="version" value="1.0"/>
 										<UML:TaggedValue tag="isprotected" value="FALSE"/>
 										<UML:TaggedValue tag="usedtd" value="FALSE"/>
@@ -318,7 +326,7 @@
 												<UML:TaggedValue tag="complexity" value="1"/>
 												<UML:TaggedValue tag="status" value="Proposed"/>
 												<UML:TaggedValue tag="tpos" value="0"/>
-												<UML:TaggedValue tag="ea_localid" value="1440"/>
+												<UML:TaggedValue tag="ea_localid" value="288"/>
 												<UML:TaggedValue tag="ea_eleType" value="element"/>
 												<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 											</UML:ModelElement.taggedValue>
@@ -345,7 +353,7 @@
 														<UML:TaggedValue tag="complexity" value="1"/>
 														<UML:TaggedValue tag="status" value="Proposed"/>
 														<UML:TaggedValue tag="tpos" value="1"/>
-														<UML:TaggedValue tag="ea_localid" value="230"/>
+														<UML:TaggedValue tag="ea_localid" value="58"/>
 														<UML:TaggedValue tag="ea_eleType" value="package"/>
 														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 													</UML:ModelElement.taggedValue>
@@ -370,7 +378,7 @@
 														<UML:TaggedValue tag="complexity" value="1"/>
 														<UML:TaggedValue tag="status" value="Proposed"/>
 														<UML:TaggedValue tag="tpos" value="3"/>
-														<UML:TaggedValue tag="ea_localid" value="232"/>
+														<UML:TaggedValue tag="ea_localid" value="60"/>
 														<UML:TaggedValue tag="ea_eleType" value="package"/>
 														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 													</UML:ModelElement.taggedValue>
@@ -395,7 +403,7 @@
 														<UML:TaggedValue tag="complexity" value="1"/>
 														<UML:TaggedValue tag="status" value="Proposed"/>
 														<UML:TaggedValue tag="tpos" value="2"/>
-														<UML:TaggedValue tag="ea_localid" value="231"/>
+														<UML:TaggedValue tag="ea_localid" value="59"/>
 														<UML:TaggedValue tag="ea_eleType" value="package"/>
 														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 													</UML:ModelElement.taggedValue>
@@ -420,7 +428,7 @@
 														<UML:TaggedValue tag="complexity" value="1"/>
 														<UML:TaggedValue tag="status" value="Proposed"/>
 														<UML:TaggedValue tag="tpos" value="7"/>
-														<UML:TaggedValue tag="ea_localid" value="237"/>
+														<UML:TaggedValue tag="ea_localid" value="61"/>
 														<UML:TaggedValue tag="ea_eleType" value="package"/>
 														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 													</UML:ModelElement.taggedValue>
@@ -434,11 +442,15 @@
 												<UML:TaggedValue tag="created" value="2013-01-08 21:43:20"/>
 												<UML:TaggedValue tag="modified" value="2014-05-07 12:34:11"/>
 												<UML:TaggedValue tag="iscontrolled" value="FALSE"/>
+												<UML:TaggedValue tag="lastloaddate" value="2020-10-13 18:01:30"/>
+												<UML:TaggedValue tag="lastsavedate" value="2020-10-13 18:01:30"/>
 												<UML:TaggedValue tag="version" value="1.0"/>
 												<UML:TaggedValue tag="isprotected" value="FALSE"/>
 												<UML:TaggedValue tag="usedtd" value="FALSE"/>
 												<UML:TaggedValue tag="logxml" value="FALSE"/>
 												<UML:TaggedValue tag="tpos" value="1"/>
+												<UML:TaggedValue tag="batchsave" value="0"/>
+												<UML:TaggedValue tag="batchload" value="0"/>
 												<UML:TaggedValue tag="phase" value="1.0"/>
 												<UML:TaggedValue tag="status" value="Proposed"/>
 												<UML:TaggedValue tag="author" value="Hippo Software"/>
@@ -466,7 +478,7 @@
 														<UML:TaggedValue tag="complexity" value="1"/>
 														<UML:TaggedValue tag="stereotype" value="ArchiMate_Node"/>
 														<UML:TaggedValue tag="tpos" value="0"/>
-														<UML:TaggedValue tag="ea_localid" value="1258"/>
+														<UML:TaggedValue tag="ea_localid" value="293"/>
 														<UML:TaggedValue tag="ea_eleType" value="element"/>
 														<UML:TaggedValue tag="style" value="BackColor=13434828;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={906C4542-7EC4-4992-A543-EDB0155EDD3F}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Node;FQName=Archimate2::ArchiMate_Node;@ENDSTEREO;$DES;$CLT={548DA22B-65F1-4ccb-B07F-0E82BF02BC95}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={F04352B6-9B92-4bea-83ED-24D93E934203}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=Archimate2::Technology@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={548DA22B-65F1-4ccb-B07F-0E82BF02BC95}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -488,14 +500,15 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_Aggregation»"/>
-														<UML:TaggedValue tag="ea_localid" value="744"/>
+														<UML:TaggedValue tag="ea_localid" value="13"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Rack Server"/>
 														<UML:TaggedValue tag="ea_targetName" value="Application Server"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Class"/>
 														<UML:TaggedValue tag="ea_targetType" value="Class"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1261"/>
-														<UML:TaggedValue tag="ea_targetID" value="1258"/>
+														<UML:TaggedValue tag="ea_sourceID" value="296"/>
+														<UML:TaggedValue tag="ea_targetID" value="293"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={2A6E179F-4DA6-4190-8F64-81EE97BE76F0}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Aggregation;FQName=Archimate2::ArchiMate_Aggregation;@ENDSTEREO;$DES;$CLT={235F7547-8AB7-41f6-8A1C-F04C0E280FA6}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="EDGE=1;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_Aggregation»"/>
 													</UML:ModelElement.taggedValue>
@@ -532,14 +545,15 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_CommunicationPath»"/>
-														<UML:TaggedValue tag="ea_localid" value="746"/>
+														<UML:TaggedValue tag="ea_localid" value="12"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Application Server"/>
 														<UML:TaggedValue tag="ea_targetName" value="Client Workstation"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Class"/>
 														<UML:TaggedValue tag="ea_targetType" value="Class"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1258"/>
-														<UML:TaggedValue tag="ea_targetID" value="1257"/>
+														<UML:TaggedValue tag="ea_sourceID" value="293"/>
+														<UML:TaggedValue tag="ea_targetID" value="294"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={FD0C9547-4BF6-4cc5-B7BC-C286D55E958E}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_CommunicationPath;FQName=Archimate2::ArchiMate_CommunicationPath;@ENDSTEREO;$DES;$CLT={97333472-0EF8-4712-B1B5-0331BF286465}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="EDGE=3;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_CommunicationPath»"/>
 													</UML:ModelElement.taggedValue>
@@ -576,14 +590,15 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_CommunicationPath»"/>
-														<UML:TaggedValue tag="ea_localid" value="725"/>
+														<UML:TaggedValue tag="ea_localid" value="11"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Application Server"/>
 														<UML:TaggedValue tag="ea_targetName" value="Client Workstation"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Class"/>
 														<UML:TaggedValue tag="ea_targetType" value="Class"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1258"/>
-														<UML:TaggedValue tag="ea_targetID" value="1257"/>
+														<UML:TaggedValue tag="ea_sourceID" value="293"/>
+														<UML:TaggedValue tag="ea_targetID" value="294"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={EB7A2275-D2BB-46e8-90AE-B9B62ACD54F2}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_CommunicationPath;FQName=Archimate2::ArchiMate_CommunicationPath;@ENDSTEREO;$DES;$CLT={CF3BB73A-D9A8-4a26-B7CE-21DB0CB58F4A}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="EDGE=2;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_CommunicationPath»"/>
 													</UML:ModelElement.taggedValue>
@@ -624,7 +639,7 @@
 														<UML:TaggedValue tag="complexity" value="1"/>
 														<UML:TaggedValue tag="stereotype" value="ArchiMate_Node"/>
 														<UML:TaggedValue tag="tpos" value="0"/>
-														<UML:TaggedValue tag="ea_localid" value="1257"/>
+														<UML:TaggedValue tag="ea_localid" value="294"/>
 														<UML:TaggedValue tag="ea_eleType" value="element"/>
 														<UML:TaggedValue tag="style" value="BackColor=13434828;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={B936487E-0A20-42d2-8261-6421102E84BD}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Node;FQName=Archimate2::ArchiMate_Node;@ENDSTEREO;$DES;$CLT={56F885F4-7C46-4df5-9514-65D5CF668224}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={6C23A59B-776C-4b6e-9C17-E1FD8020D950}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=Archimate2::Technology@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={56F885F4-7C46-4df5-9514-65D5CF668224}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -646,14 +661,15 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_Aggregation»"/>
-														<UML:TaggedValue tag="ea_localid" value="742"/>
+														<UML:TaggedValue tag="ea_localid" value="10"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Desktop PC"/>
 														<UML:TaggedValue tag="ea_targetName" value="Client Workstation"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Class"/>
 														<UML:TaggedValue tag="ea_targetType" value="Class"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1260"/>
-														<UML:TaggedValue tag="ea_targetID" value="1257"/>
+														<UML:TaggedValue tag="ea_sourceID" value="297"/>
+														<UML:TaggedValue tag="ea_targetID" value="294"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={E98B044A-C7B5-403d-B6A1-CD10AC0D27F9}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Aggregation;FQName=Archimate2::ArchiMate_Aggregation;@ENDSTEREO;$DES;$CLT={103F8D4A-1956-41de-9269-066A5022C1DE}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="EDGE=3;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_Aggregation»"/>
 													</UML:ModelElement.taggedValue>
@@ -682,11 +698,15 @@
 												<UML:TaggedValue tag="created" value="2013-01-08 21:45:56"/>
 												<UML:TaggedValue tag="modified" value="2014-05-07 12:34:11"/>
 												<UML:TaggedValue tag="iscontrolled" value="FALSE"/>
+												<UML:TaggedValue tag="lastloaddate" value="2020-10-13 18:01:30"/>
+												<UML:TaggedValue tag="lastsavedate" value="2020-10-13 18:01:30"/>
 												<UML:TaggedValue tag="version" value="1.0"/>
 												<UML:TaggedValue tag="isprotected" value="FALSE"/>
 												<UML:TaggedValue tag="usedtd" value="FALSE"/>
 												<UML:TaggedValue tag="logxml" value="FALSE"/>
 												<UML:TaggedValue tag="tpos" value="2"/>
+												<UML:TaggedValue tag="batchsave" value="0"/>
+												<UML:TaggedValue tag="batchload" value="0"/>
 												<UML:TaggedValue tag="phase" value="1.0"/>
 												<UML:TaggedValue tag="status" value="Proposed"/>
 												<UML:TaggedValue tag="author" value="Hippo Software"/>
@@ -714,7 +734,7 @@
 														<UML:TaggedValue tag="complexity" value="1"/>
 														<UML:TaggedValue tag="stereotype" value="ArchiMate_Device"/>
 														<UML:TaggedValue tag="tpos" value="0"/>
-														<UML:TaggedValue tag="ea_localid" value="1276"/>
+														<UML:TaggedValue tag="ea_localid" value="295"/>
 														<UML:TaggedValue tag="ea_eleType" value="element"/>
 														<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={981F64BF-1B43-4985-B324-40AC4D094A55}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Device;FQName=Archimate2::ArchiMate_Device;@ENDSTEREO;$DES;$CLT={24D7B44D-393A-4347-A342-886B5CB90B59}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={E0824F7E-BFE2-479c-A3DC-58B1C8B3D35A}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=Archimate2::Technology@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={24D7B44D-393A-4347-A342-886B5CB90B59}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -736,14 +756,15 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_Network»"/>
-														<UML:TaggedValue tag="ea_localid" value="749"/>
+														<UML:TaggedValue tag="ea_localid" value="9"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Router"/>
 														<UML:TaggedValue tag="ea_targetName" value="Desktop PC"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Class"/>
 														<UML:TaggedValue tag="ea_targetType" value="Class"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1276"/>
-														<UML:TaggedValue tag="ea_targetID" value="1260"/>
+														<UML:TaggedValue tag="ea_sourceID" value="295"/>
+														<UML:TaggedValue tag="ea_targetID" value="297"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={F349AD9F-7E73-4f9c-81B4-BAA6EB960D77}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Network;FQName=Archimate2::ArchiMate_Network;@ENDSTEREO;$DES;$CLT={05C072E4-DAF3-4c57-A80E-95C7D57A70BC}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="SX=0;SY=0;EX=0;EY=0;EDGE=3;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_Network»"/>
 														<UML:TaggedValue tag="mt" value="LAN"/>
@@ -781,14 +802,15 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_Network»"/>
-														<UML:TaggedValue tag="ea_localid" value="748"/>
+														<UML:TaggedValue tag="ea_localid" value="8"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Rack Server"/>
 														<UML:TaggedValue tag="ea_targetName" value="Router"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Class"/>
 														<UML:TaggedValue tag="ea_targetType" value="Class"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1261"/>
-														<UML:TaggedValue tag="ea_targetID" value="1276"/>
+														<UML:TaggedValue tag="ea_sourceID" value="296"/>
+														<UML:TaggedValue tag="ea_targetID" value="295"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={7474E11E-C1A9-445f-BFF3-7D42A542A673}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Network;FQName=Archimate2::ArchiMate_Network;@ENDSTEREO;$DES;$CLT={A032878E-212B-454a-9F2C-1BC7C8129FD6}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="SX=0;SY=0;EX=0;EY=0;EDGE=2;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_Network»"/>
 														<UML:TaggedValue tag="mt" value="LAN"/>
@@ -830,7 +852,7 @@
 														<UML:TaggedValue tag="complexity" value="1"/>
 														<UML:TaggedValue tag="stereotype" value="ArchiMate_Device"/>
 														<UML:TaggedValue tag="tpos" value="0"/>
-														<UML:TaggedValue tag="ea_localid" value="1261"/>
+														<UML:TaggedValue tag="ea_localid" value="296"/>
 														<UML:TaggedValue tag="ea_eleType" value="element"/>
 														<UML:TaggedValue tag="style" value="BackColor=13434828;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={FA644384-08CA-4474-9BE4-6A33317C7F8A}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Device;FQName=Archimate2::ArchiMate_Device;@ENDSTEREO;$DES;$CLT={4FAE6201-E9C5-47bf-ACB0-3E8C4B55792E}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={ACA66273-4705-4763-854F-FD285247CAF3}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=Archimate2::Technology@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={4FAE6201-E9C5-47bf-ACB0-3E8C4B55792E}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -852,14 +874,15 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_Assignment»"/>
-														<UML:TaggedValue tag="ea_localid" value="724"/>
+														<UML:TaggedValue tag="ea_localid" value="7"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Rack Server"/>
 														<UML:TaggedValue tag="ea_targetName" value="RDBMS"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Class"/>
 														<UML:TaggedValue tag="ea_targetType" value="Class"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1261"/>
-														<UML:TaggedValue tag="ea_targetID" value="1263"/>
+														<UML:TaggedValue tag="ea_sourceID" value="296"/>
+														<UML:TaggedValue tag="ea_targetID" value="299"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={44EF5BE7-5CA4-4a8f-B864-84EFCCF74564}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Assignment;FQName=Archimate2::ArchiMate_Assignment;@ENDSTEREO;$DES;$CLT={3CD1AB03-7F97-443f-B97C-0A338AA29805}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="SX=0;SY=0;EX=0;EY=0;EDGE=4;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_Assignment»"/>
 													</UML:ModelElement.taggedValue>
@@ -896,14 +919,15 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_Network»"/>
-														<UML:TaggedValue tag="ea_localid" value="726"/>
+														<UML:TaggedValue tag="ea_localid" value="6"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Desktop PC"/>
 														<UML:TaggedValue tag="ea_targetName" value="Rack Server"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Class"/>
 														<UML:TaggedValue tag="ea_targetType" value="Class"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1260"/>
-														<UML:TaggedValue tag="ea_targetID" value="1261"/>
+														<UML:TaggedValue tag="ea_sourceID" value="297"/>
+														<UML:TaggedValue tag="ea_targetID" value="296"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={FDDAC969-1640-4dfa-A2C1-46D6AB044FC7}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Network;FQName=Archimate2::ArchiMate_Network;@ENDSTEREO;$DES;$CLT={4D897E77-18FA-4e7c-B054-06AF4BCC50BB}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="EDGE=1;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_Network»"/>
 														<UML:TaggedValue tag="mt" value="100 Mb/s LAN"/>
@@ -941,14 +965,15 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_Assignment»"/>
-														<UML:TaggedValue tag="ea_localid" value="745"/>
+														<UML:TaggedValue tag="ea_localid" value="5"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Rack Server"/>
 														<UML:TaggedValue tag="ea_targetName" value="UNIX Operating System"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Class"/>
 														<UML:TaggedValue tag="ea_targetType" value="Class"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1261"/>
-														<UML:TaggedValue tag="ea_targetID" value="1275"/>
+														<UML:TaggedValue tag="ea_sourceID" value="296"/>
+														<UML:TaggedValue tag="ea_targetID" value="298"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={0A87DA6D-16F5-4902-98CD-FB7DDB470140}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Assignment;FQName=Archimate2::ArchiMate_Assignment;@ENDSTEREO;$DES;$CLT={9CD28B28-C144-40db-8E7D-907DAC06D401}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="SX=-2;SY=-34;EX=-43;EY=-4;EDGE=3;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_Assignment»"/>
 													</UML:ModelElement.taggedValue>
@@ -989,7 +1014,7 @@
 														<UML:TaggedValue tag="complexity" value="1"/>
 														<UML:TaggedValue tag="stereotype" value="ArchiMate_Device"/>
 														<UML:TaggedValue tag="tpos" value="0"/>
-														<UML:TaggedValue tag="ea_localid" value="1260"/>
+														<UML:TaggedValue tag="ea_localid" value="297"/>
 														<UML:TaggedValue tag="ea_eleType" value="element"/>
 														<UML:TaggedValue tag="style" value="BackColor=13434828;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={A487739E-875F-48d5-AC54-E18B093B30E3}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Device;FQName=Archimate2::ArchiMate_Device;@ENDSTEREO;$DES;$CLT={E52BA489-0368-477d-972D-B3387BEECDAF}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={21973DDD-4CCB-4d6c-834A-1058BEBF8E0D}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=Archimate2::Technology@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={E52BA489-0368-477d-972D-B3387BEECDAF}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -1011,14 +1036,15 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_Assignment»"/>
-														<UML:TaggedValue tag="ea_localid" value="727"/>
+														<UML:TaggedValue tag="ea_localid" value="4"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Desktop PC"/>
 														<UML:TaggedValue tag="ea_targetName" value="Windows Operating System"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Class"/>
 														<UML:TaggedValue tag="ea_targetType" value="Class"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1260"/>
-														<UML:TaggedValue tag="ea_targetID" value="1267"/>
+														<UML:TaggedValue tag="ea_sourceID" value="297"/>
+														<UML:TaggedValue tag="ea_targetID" value="300"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={13A1AD34-11D2-493e-8E96-5C3888E7C58A}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Assignment;FQName=Archimate2::ArchiMate_Assignment;@ENDSTEREO;$DES;$CLT={65CD09E7-7EE1-48a3-B3A2-905839CAF17E}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="SX=0;SY=0;EX=0;EY=0;EDGE=2;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_Assignment»"/>
 													</UML:ModelElement.taggedValue>
@@ -1055,13 +1081,13 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_Realization»"/>
-														<UML:TaggedValue tag="ea_localid" value="765"/>
+														<UML:TaggedValue tag="ea_localid" value="155"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Desktop PC"/>
 														<UML:TaggedValue tag="ea_targetName" value="Flower Sales Application"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Class"/>
 														<UML:TaggedValue tag="ea_targetType" value="Component"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1260"/>
-														<UML:TaggedValue tag="ea_targetID" value="1219"/>
+														<UML:TaggedValue tag="ea_sourceID" value="297"/>
+														<UML:TaggedValue tag="ea_targetID" value="20"/>
 														<UML:TaggedValue tag="src_visibility" value="Public"/>
 														<UML:TaggedValue tag="src_aggregation" value="0"/>
 														<UML:TaggedValue tag="src_isOrdered" value="false"/>
@@ -1091,11 +1117,15 @@
 												<UML:TaggedValue tag="created" value="2013-01-08 21:48:50"/>
 												<UML:TaggedValue tag="modified" value="2014-05-07 12:34:11"/>
 												<UML:TaggedValue tag="iscontrolled" value="FALSE"/>
+												<UML:TaggedValue tag="lastloaddate" value="2020-10-13 18:01:30"/>
+												<UML:TaggedValue tag="lastsavedate" value="2020-10-13 18:01:30"/>
 												<UML:TaggedValue tag="version" value="1.0"/>
 												<UML:TaggedValue tag="isprotected" value="FALSE"/>
 												<UML:TaggedValue tag="usedtd" value="FALSE"/>
 												<UML:TaggedValue tag="logxml" value="FALSE"/>
 												<UML:TaggedValue tag="tpos" value="3"/>
+												<UML:TaggedValue tag="batchsave" value="0"/>
+												<UML:TaggedValue tag="batchload" value="0"/>
 												<UML:TaggedValue tag="phase" value="1.0"/>
 												<UML:TaggedValue tag="status" value="Proposed"/>
 												<UML:TaggedValue tag="author" value="Hippo Software"/>
@@ -1123,7 +1153,7 @@
 														<UML:TaggedValue tag="complexity" value="1"/>
 														<UML:TaggedValue tag="stereotype" value="ArchiMate_SystemSoftware"/>
 														<UML:TaggedValue tag="tpos" value="0"/>
-														<UML:TaggedValue tag="ea_localid" value="1275"/>
+														<UML:TaggedValue tag="ea_localid" value="298"/>
 														<UML:TaggedValue tag="ea_eleType" value="element"/>
 														<UML:TaggedValue tag="style" value="BackColor=13434828;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={8081C29A-8F23-45a9-A7B0-88B890128040}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_SystemSoftware;FQName=Archimate2::ArchiMate_SystemSoftware;@ENDSTEREO;$DES;$CLT={78D8AE4D-EECC-4153-B87A-3BAB4F86AF2C}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={FAD07FCB-AE92-400c-BEB4-09FB9A93EA40}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=Archimate2::Technology@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={78D8AE4D-EECC-4153-B87A-3BAB4F86AF2C}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -1149,7 +1179,7 @@
 														<UML:TaggedValue tag="complexity" value="1"/>
 														<UML:TaggedValue tag="stereotype" value="ArchiMate_SystemSoftware"/>
 														<UML:TaggedValue tag="tpos" value="0"/>
-														<UML:TaggedValue tag="ea_localid" value="1263"/>
+														<UML:TaggedValue tag="ea_localid" value="299"/>
 														<UML:TaggedValue tag="ea_eleType" value="element"/>
 														<UML:TaggedValue tag="style" value="BackColor=13434828;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={36B52260-0DAD-4943-84F2-213EA3BAF8C6}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_SystemSoftware;FQName=Archimate2::ArchiMate_SystemSoftware;@ENDSTEREO;$DES;$CLT={DBABC9D1-E293-45fd-906D-DA80F5C1A9B3}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={FD8DB613-892A-4b30-816A-514E433A7B39}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=Archimate2::Technology@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={DBABC9D1-E293-45fd-906D-DA80F5C1A9B3}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -1171,13 +1201,13 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_Realization»"/>
-														<UML:TaggedValue tag="ea_localid" value="754"/>
+														<UML:TaggedValue tag="ea_localid" value="3"/>
 														<UML:TaggedValue tag="ea_sourceName" value="RDBMS"/>
 														<UML:TaggedValue tag="ea_targetName" value="Data Storing"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Class"/>
 														<UML:TaggedValue tag="ea_targetType" value="Activity"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1263"/>
-														<UML:TaggedValue tag="ea_targetID" value="1282"/>
+														<UML:TaggedValue tag="ea_sourceID" value="299"/>
+														<UML:TaggedValue tag="ea_targetID" value="301"/>
 														<UML:TaggedValue tag="src_visibility" value="Public"/>
 														<UML:TaggedValue tag="src_aggregation" value="0"/>
 														<UML:TaggedValue tag="src_isOrdered" value="false"/>
@@ -1195,6 +1225,7 @@
 														<UML:TaggedValue tag="dst_containment" value="Unspecified"/>
 														<UML:TaggedValue tag="dst_style" value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={305263B6-C431-4ecc-905D-C1846EC3D347}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Realization;FQName=Archimate2::ArchiMate_Realization;@ENDSTEREO;$DES;$CLT={950B5C0A-297B-4a37-B390-0651929307B5}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="EDGE=1;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_Realization»"/>
 													</UML:ModelElement.taggedValue>
@@ -1215,13 +1246,13 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_Realization»"/>
-														<UML:TaggedValue tag="ea_localid" value="755"/>
+														<UML:TaggedValue tag="ea_localid" value="2"/>
 														<UML:TaggedValue tag="ea_sourceName" value="RDBMS"/>
 														<UML:TaggedValue tag="ea_targetName" value="Data Querying"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Class"/>
 														<UML:TaggedValue tag="ea_targetType" value="Activity"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1263"/>
-														<UML:TaggedValue tag="ea_targetID" value="1281"/>
+														<UML:TaggedValue tag="ea_sourceID" value="299"/>
+														<UML:TaggedValue tag="ea_targetID" value="302"/>
 														<UML:TaggedValue tag="src_visibility" value="Public"/>
 														<UML:TaggedValue tag="src_aggregation" value="0"/>
 														<UML:TaggedValue tag="src_isOrdered" value="false"/>
@@ -1239,6 +1270,7 @@
 														<UML:TaggedValue tag="dst_containment" value="Unspecified"/>
 														<UML:TaggedValue tag="dst_style" value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={867BF124-1338-4e98-8966-F574A98080D4}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_Realization;FQName=Archimate2::ArchiMate_Realization;@ENDSTEREO;$DES;$CLT={A98BC8D2-D977-45de-AC1A-7C547680BAE0}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="EDGE=1;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_Realization»"/>
 													</UML:ModelElement.taggedValue>
@@ -1263,7 +1295,7 @@
 														<UML:TaggedValue tag="complexity" value="1"/>
 														<UML:TaggedValue tag="stereotype" value="ArchiMate_SystemSoftware"/>
 														<UML:TaggedValue tag="tpos" value="0"/>
-														<UML:TaggedValue tag="ea_localid" value="1267"/>
+														<UML:TaggedValue tag="ea_localid" value="300"/>
 														<UML:TaggedValue tag="ea_eleType" value="element"/>
 														<UML:TaggedValue tag="style" value="BackColor=13434828;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={A9BA9292-3C80-4eed-B724-21018961FA20}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_SystemSoftware;FQName=Archimate2::ArchiMate_SystemSoftware;@ENDSTEREO;$DES;$CLT={F1411688-CE82-444b-8FB5-277C33A334DF}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={D1CD8061-F846-41b3-B100-684914586C51}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=Archimate2::Technology@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={F1411688-CE82-444b-8FB5-277C33A334DF}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -1277,11 +1309,15 @@
 												<UML:TaggedValue tag="created" value="2013-02-06 13:00:41"/>
 												<UML:TaggedValue tag="modified" value="2014-05-07 12:34:11"/>
 												<UML:TaggedValue tag="iscontrolled" value="FALSE"/>
+												<UML:TaggedValue tag="lastloaddate" value="2020-10-13 18:01:30"/>
+												<UML:TaggedValue tag="lastsavedate" value="2020-10-13 18:01:30"/>
 												<UML:TaggedValue tag="version" value="1.0"/>
 												<UML:TaggedValue tag="isprotected" value="FALSE"/>
 												<UML:TaggedValue tag="usedtd" value="FALSE"/>
 												<UML:TaggedValue tag="logxml" value="FALSE"/>
 												<UML:TaggedValue tag="tpos" value="7"/>
+												<UML:TaggedValue tag="batchsave" value="0"/>
+												<UML:TaggedValue tag="batchload" value="0"/>
 												<UML:TaggedValue tag="phase" value="1.0"/>
 												<UML:TaggedValue tag="status" value="Proposed"/>
 												<UML:TaggedValue tag="author" value="Hippo Software"/>
@@ -1316,7 +1352,7 @@
 																		<UML:TaggedValue tag="complexity" value="1"/>
 																		<UML:TaggedValue tag="stereotype" value="ArchiMate_InfrastructureService"/>
 																		<UML:TaggedValue tag="tpos" value="0"/>
-																		<UML:TaggedValue tag="ea_localid" value="1282"/>
+																		<UML:TaggedValue tag="ea_localid" value="301"/>
 																		<UML:TaggedValue tag="ea_eleType" value="element"/>
 																		<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 																		<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={997D33B2-5B57-4430-80C9-986621982B77}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_InfrastructureService;FQName=Archimate2::ArchiMate_InfrastructureService;@ENDSTEREO;$DES;$CLT={0A37ADA2-588C-4422-B4FF-BCA5FD432C35}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={1A5354A2-C8E1-4a73-86A5-E2D6B78B1032}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=Archimate2::Technology@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={0A37ADA2-588C-4422-B4FF-BCA5FD432C35}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -1344,7 +1380,7 @@
 																		<UML:TaggedValue tag="complexity" value="1"/>
 																		<UML:TaggedValue tag="stereotype" value="ArchiMate_InfrastructureService"/>
 																		<UML:TaggedValue tag="tpos" value="0"/>
-																		<UML:TaggedValue tag="ea_localid" value="1281"/>
+																		<UML:TaggedValue tag="ea_localid" value="302"/>
 																		<UML:TaggedValue tag="ea_eleType" value="element"/>
 																		<UML:TaggedValue tag="style" value="BackColor=-1;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
 																		<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={AB3A423B-66BC-4d70-9E0C-74B56F94EDAB}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_InfrastructureService;FQName=Archimate2::ArchiMate_InfrastructureService;@ENDSTEREO;$DES;$CLT={3B4FCA16-392A-42c8-99B7-ABCE7F678CCB}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={A640BB6D-1755-4d28-8BAC-DEA3A07F32E6}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=_defaultDiagramType@ENDNAME;@TYPE=string@ENDTYPE;@VALU=Archimate2::Technology@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={3B4FCA16-392A-42c8-99B7-ABCE7F678CCB}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -1370,13 +1406,13 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_UsedBy»"/>
-														<UML:TaggedValue tag="ea_localid" value="756"/>
+														<UML:TaggedValue tag="ea_localid" value="161"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Data Storing"/>
 														<UML:TaggedValue tag="ea_targetName" value="Flower Sales Application"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Activity"/>
 														<UML:TaggedValue tag="ea_targetType" value="Component"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1282"/>
-														<UML:TaggedValue tag="ea_targetID" value="1219"/>
+														<UML:TaggedValue tag="ea_sourceID" value="301"/>
+														<UML:TaggedValue tag="ea_targetID" value="20"/>
 														<UML:TaggedValue tag="src_visibility" value="Public"/>
 														<UML:TaggedValue tag="src_aggregation" value="0"/>
 														<UML:TaggedValue tag="src_isOrdered" value="false"/>
@@ -1394,6 +1430,7 @@
 														<UML:TaggedValue tag="dst_containment" value="Unspecified"/>
 														<UML:TaggedValue tag="dst_style" value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={9BCB381D-854D-4ca6-B377-3AC6E4C4B0DF}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_UsedBy;FQName=Archimate2::ArchiMate_UsedBy;@ENDSTEREO;$DES;$CLT={36F3C902-355B-43f4-BE43-33921CCC5DEF}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="EDGE=1;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_UsedBy»"/>
 													</UML:ModelElement.taggedValue>
@@ -1403,10 +1440,10 @@
 														<UML:Stereotype name="ArchiMate_UsedBy"/>
 													</UML:ModelElement.stereotype>
 													<UML:ModelElement.taggedValue>
-														<UML:TaggedValue tag="style" value="3"/>
+														<UML:TaggedValue tag="style" value="1"/>
 														<UML:TaggedValue tag="ea_type" value="Dependency"/>
 														<UML:TaggedValue tag="direction" value="Source -&gt; Destination"/>
-														<UML:TaggedValue tag="linemode" value="3"/>
+														<UML:TaggedValue tag="linemode" value="1"/>
 														<UML:TaggedValue tag="linecolor" value="-1"/>
 														<UML:TaggedValue tag="linewidth" value="0"/>
 														<UML:TaggedValue tag="seqno" value="0"/>
@@ -1414,13 +1451,13 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_UsedBy»"/>
-														<UML:TaggedValue tag="ea_localid" value="780"/>
+														<UML:TaggedValue tag="ea_localid" value="150"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Data Storing"/>
 														<UML:TaggedValue tag="ea_targetName" value="Stock Control System"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Activity"/>
 														<UML:TaggedValue tag="ea_targetType" value="Component"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1282"/>
-														<UML:TaggedValue tag="ea_targetID" value="1220"/>
+														<UML:TaggedValue tag="ea_sourceID" value="301"/>
+														<UML:TaggedValue tag="ea_targetID" value="21"/>
 														<UML:TaggedValue tag="src_visibility" value="Public"/>
 														<UML:TaggedValue tag="src_aggregation" value="0"/>
 														<UML:TaggedValue tag="src_isOrdered" value="false"/>
@@ -1438,6 +1475,7 @@
 														<UML:TaggedValue tag="dst_containment" value="Unspecified"/>
 														<UML:TaggedValue tag="dst_style" value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={38D5218D-8611-42b5-AF96-54EB9DDE9BE5}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_UsedBy;FQName=Archimate2::ArchiMate_UsedBy;@ENDSTEREO;$DES;$CLT={FFD7911E-E8D6-4665-B1B3-F2683FBEAAA4}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="SX=-39;SY=-20;EX=-39;EY=-25;EDGE=1;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_UsedBy»"/>
 													</UML:ModelElement.taggedValue>
@@ -1447,10 +1485,10 @@
 														<UML:Stereotype name="ArchiMate_UsedBy"/>
 													</UML:ModelElement.stereotype>
 													<UML:ModelElement.taggedValue>
-														<UML:TaggedValue tag="style" value="3"/>
+														<UML:TaggedValue tag="style" value="1"/>
 														<UML:TaggedValue tag="ea_type" value="Dependency"/>
 														<UML:TaggedValue tag="direction" value="Source -&gt; Destination"/>
-														<UML:TaggedValue tag="linemode" value="3"/>
+														<UML:TaggedValue tag="linemode" value="1"/>
 														<UML:TaggedValue tag="linecolor" value="-1"/>
 														<UML:TaggedValue tag="linewidth" value="0"/>
 														<UML:TaggedValue tag="seqno" value="0"/>
@@ -1458,13 +1496,13 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_UsedBy»"/>
-														<UML:TaggedValue tag="ea_localid" value="779"/>
+														<UML:TaggedValue tag="ea_localid" value="153"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Data Querying"/>
 														<UML:TaggedValue tag="ea_targetName" value="Stock Control System"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Activity"/>
 														<UML:TaggedValue tag="ea_targetType" value="Component"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1281"/>
-														<UML:TaggedValue tag="ea_targetID" value="1220"/>
+														<UML:TaggedValue tag="ea_sourceID" value="302"/>
+														<UML:TaggedValue tag="ea_targetID" value="21"/>
 														<UML:TaggedValue tag="src_visibility" value="Public"/>
 														<UML:TaggedValue tag="src_aggregation" value="0"/>
 														<UML:TaggedValue tag="src_isOrdered" value="false"/>
@@ -1482,6 +1520,7 @@
 														<UML:TaggedValue tag="dst_containment" value="Unspecified"/>
 														<UML:TaggedValue tag="dst_style" value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={4D8ED940-EBB6-43dd-86E3-2FA8ACDCB28E}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_UsedBy;FQName=Archimate2::ArchiMate_UsedBy;@ENDSTEREO;$DES;$CLT={399098D8-EF44-4d82-8D2B-5866C9D9D2C4}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="SX=0;SY=0;EX=0;EY=0;EDGE=1;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_UsedBy»"/>
 													</UML:ModelElement.taggedValue>
@@ -1502,13 +1541,13 @@
 														<UML:TaggedValue tag="headStyle" value="0"/>
 														<UML:TaggedValue tag="lineStyle" value="0"/>
 														<UML:TaggedValue tag="conditional" value=" &#xA;«ArchiMate_UsedBy»"/>
-														<UML:TaggedValue tag="ea_localid" value="757"/>
+														<UML:TaggedValue tag="ea_localid" value="158"/>
 														<UML:TaggedValue tag="ea_sourceName" value="Data Querying"/>
 														<UML:TaggedValue tag="ea_targetName" value="Flower Sales Application"/>
 														<UML:TaggedValue tag="ea_sourceType" value="Activity"/>
 														<UML:TaggedValue tag="ea_targetType" value="Component"/>
-														<UML:TaggedValue tag="ea_sourceID" value="1281"/>
-														<UML:TaggedValue tag="ea_targetID" value="1219"/>
+														<UML:TaggedValue tag="ea_sourceID" value="302"/>
+														<UML:TaggedValue tag="ea_targetID" value="20"/>
 														<UML:TaggedValue tag="src_visibility" value="Public"/>
 														<UML:TaggedValue tag="src_aggregation" value="0"/>
 														<UML:TaggedValue tag="src_isOrdered" value="false"/>
@@ -1526,6 +1565,7 @@
 														<UML:TaggedValue tag="dst_containment" value="Unspecified"/>
 														<UML:TaggedValue tag="dst_style" value="Union=0;Derived=0;AllowDuplicates=0;Owned=0;Navigable=Navigable;"/>
 														<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={F566033D-8D98-4276-8780-30711059914E}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=ArchiMate_UsedBy;FQName=Archimate2::ArchiMate_UsedBy;@ENDSTEREO;$DES;$CLT={824EEC7A-310A-479c-A822-17887D81C266}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+														<UML:TaggedValue tag="privatedata5" value="SX=27;SY=-15;EX=27;EY=-20;EDGE=1;"/>
 														<UML:TaggedValue tag="virtualInheritance" value="0"/>
 														<UML:TaggedValue tag="mb" value=" &#xA;«ArchiMate_UsedBy»"/>
 													</UML:ModelElement.taggedValue>
@@ -1542,7 +1582,9 @@
 								<UML:TaggedValue tag="created" value="2020-10-08 16:39:06"/>
 								<UML:TaggedValue tag="modified" value="2020-10-08 16:39:06"/>
 								<UML:TaggedValue tag="iscontrolled" value="TRUE"/>
-								<UML:TaggedValue tag="xmlpath" value="C:\Users\kruger\Documents\testgit\enterprisearchitect\To-Be.xml"/>
+								<UML:TaggedValue tag="xmlpath" value="C:\Users\kruger\Documents\GitHub\repoea\To-Be.xml"/>
+								<UML:TaggedValue tag="lastloaddate" value="2020-10-13 18:01:30"/>
+								<UML:TaggedValue tag="lastsavedate" value="2020-10-13 18:03:47"/>
 								<UML:TaggedValue tag="version" value="1.0"/>
 								<UML:TaggedValue tag="isprotected" value="FALSE"/>
 								<UML:TaggedValue tag="usedtd" value="FALSE"/>
@@ -1572,12 +1614,12 @@
 				<UML:TaggedValue tag="modified_date" value="2014-06-17 10:32:03"/>
 				<UML:TaggedValue tag="package" value="EAPK_0719A7FE_501D_41f5_936C_D8697C795050"/>
 				<UML:TaggedValue tag="type" value="Package"/>
-				<UML:TaggedValue tag="swimlanes" value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=-1;ofCol=-1;ufCol=-1;hl=1;ufh=0;hh=0;cls=0;bw=0;hli=0;SwimlaneFont=lfh:-10,lfw:0,lfi:0,lfu:0,lfs:0,lfface:Calibri,lfe:0,lfo:0,lfchar:1,lfop:0,lfcp:0,lfq:0,lfpf=0,lfWidth=0;"/>
+				<UML:TaggedValue tag="swimlanes" value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=-1;ofCol=-1;ufCol=-1;hl=0;ufh=0;hh=0;cls=0;bw=0;hli=0;SwimlaneFont=lfh:-10,lfw:0,lfi:0,lfu:0,lfs:0,lfface:Calibri,lfe:0,lfo:0,lfchar:1,lfop:0,lfcp:0,lfq:0,lfpf=0,lfWidth=0;"/>
 				<UML:TaggedValue tag="matrixitems" value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;clrLine=0;"/>
 				<UML:TaggedValue tag="tpos" value="0"/>
-				<UML:TaggedValue tag="ea_localid" value="211"/>
+				<UML:TaggedValue tag="ea_localid" value="25"/>
 				<UML:TaggedValue tag="EAStyle" value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=1;Border=1;HighlightForeign=1;PackageContents=1;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=1;PPgs.cy=1;DocSize.cx=1134;DocSize.cy=795;ShowDetails=0;Orientation=L;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=9;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;ShowShape=1;AllDockable=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;m_bElementClassifier=1;SPT=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
-				<UML:TaggedValue tag="styleex" value="SaveTag=A113F9A6;ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;KanbanActive=0;MatrixLineWidth=1;MatrixLineClr=0;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;m_bElementClassifier=1;SPT=1;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;SuppressedCompartments=;Theme=:119;"/>
+				<UML:TaggedValue tag="styleex" value="SaveTag=DF216351;ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;KanbanActive=0;MatrixLineWidth=1;MatrixLineClr=0;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;m_bElementClassifier=1;SPT=1;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;SuppressedCompartments=;Theme=:119;"/>
 			</UML:ModelElement.taggedValue>
 			<UML:Diagram.element>
 				<UML:DiagramElement geometry="Left=50;Top=90;Right=176;Bottom=112;" subject="EAID_22AD7825_260B_4f8d_9056_743DFAD54D93" seqno="1" style="DUID=F9CE9439;NSL=0;"/>

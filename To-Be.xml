@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<xmi:XMI xmi:version="2.1" xmlns:uml="http://schema.omg.org/spec/UML/2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1">
+	<xmi:Documentation exporter="Enterprise Architect" exporterVersion="6.5"/>
+	<uml:Model xmi:type="uml:Model" name="EA_Model" visibility="public">
+		<packagedElement xmi:type="uml:Package" xmi:id="EAPK_A5B77907_E7DE_4e97_9823_7DF9DDF4D098" name="To-Be" visibility="public"/>
+	</uml:Model>
+	<xmi:Extension extender="Enterprise Architect" extenderID="6.5">
+		<elements>
+			<element xmi:idref="EAPK_A5B77907_E7DE_4e97_9823_7DF9DDF4D098" xmi:type="uml:Package" name="To-Be" scope="public">
+				<model package2="EAID_A5B77907_E7DE_4e97_9823_7DF9DDF4D098" package="EAPK_10B842A1_12AE_487e_977D_7F317E90B876" tpos="0" ea_localid="62" ea_eleType="package"/>
+				<properties isSpecification="false" sType="Package" nType="0" scope="public"/>
+				<project author="kruger" version="1.0" phase="1.0" created="2020-10-08 16:39:06" modified="2020-10-08 16:39:06" complexity="1" status="Proposed"/>
+				<code gentype="Java"/>
+				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<tags/>
+				<xrefs/>
+				<extendedProperties tagged="0" package_name="Libreria"/>
+				<packageproperties version="1.0" owner="kruger" xmiver="Enterprise Architect XMI 2.1/UML 2.1"/>
+				<paths xmlpath="C:\Users\kruger\Documents\GitHub\repoea\To-Be.xml"/>
+				<times created="2020-10-08 16:39:06" modified="2020-10-08 16:39:06" lastloaddate="2020-10-13 18:01:30" lastsavedate="2020-10-13 18:09:35"/>
+				<flags iscontrolled="TRUE" isprotected="FALSE" batchsave="1" batchload="0" usedtd="FALSE" logxml="FALSE" packageFlags="Recurse=1;"/>
+			</element>
+		</elements>
+		<connectors/>
+		<primitivetypes>
+			<packagedElement xmi:type="uml:Package" xmi:id="EAPrimitiveTypesPackage" name="EA_PrimitiveTypes_Package" visibility="public"/>
+		</primitivetypes>
+		<profiles/>
+		<diagrams/>
+	</xmi:Extension>
+</xmi:XMI>
